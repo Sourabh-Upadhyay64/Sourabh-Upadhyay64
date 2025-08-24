@@ -1,12 +1,22 @@
 HI there , 
 I am Sourabh Upadhyay a Professional Software Engineer .
+### 👨‍💻 About Me  
 
+- 💡 I love turning coffee into code and ideas into projects.  
+- 🌱 Currently exploring **System Design** and scaling applications.  
+- 🎯 Goal for 2025: Contribute more to **open-source** projects.  
+- ⚡ Fun fact: I can debug faster when listening to lofi beats 🎧.  
+- 🧩 I enjoy solving complex coding challenges just like puzzles.  
+- 🌍 Outside of coding, I love consulting about  tech knowledge,and trying out new tools, .  
+- 🏐 When I’m not in front of my laptop, you might find me throwing discus or exploring the outdoors.  
+- 📚 I genuinely enjoy **teaching Maths, Science, and Technology** to others.
 
 
 ### 🌍 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-upadhyay-445060243/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/326322)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourabh-upadhyay64/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Sourabh-Upadhyay64)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://myportfoliosourabh.netlify.app/)
+
 
 ### 🛠️ Languages & Tools
 
